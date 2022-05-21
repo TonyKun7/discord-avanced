@@ -1,0 +1,25 @@
+{
+  "name": "@tonykun7/discord-avanced",
+  "version": "1.0.0",
+  "description": "Allows you to have more precise events than discord.",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@tonykun7",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord-voice",
+    "discord-boost",
+    "discord-link",
+    "discord-role",
+    "disord-together"
+  ]
+}
