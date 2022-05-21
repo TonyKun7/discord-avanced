@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to @tonykun7/discord-avanced 👋</h1>
-<% if (projectDescription) { -%>
 Allows you to have more precise events than discord.
-<%= projectDescription %>
-<% } -%>
 
 ## Install
 
